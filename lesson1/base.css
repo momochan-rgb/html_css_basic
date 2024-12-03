@@ -38,3 +38,21 @@ body {
 }
 
 /* 上の部分は気にせずここから書く */
+
+div{
+  padding: 16px 0px;
+  width: 200px;
+  height: 300px;
+  font-size: 16px;
+  margin: 0px;
+}
+.bg_b{
+  color: #ffffff;
+  background-color:#000;
+}
+
+.bg_w{
+  color: #000;
+  background-color:#ffffff;
+  border: 1px solid #000;
+}
