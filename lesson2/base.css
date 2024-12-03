@@ -38,3 +38,17 @@ body {
 }
 
 /* 上の部分は気にせずここから書く */
+div {
+  width: 200px;
+  height: 100px;
+}
+
+.red {
+background-color: red;
+margin: 0px 100px 0px 300px;
+}
+
+.blue {
+background-color: blue;
+margin: 100px 400px 0px 0px;
+}

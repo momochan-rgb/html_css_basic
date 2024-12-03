@@ -38,3 +38,9 @@ body {
 }
 
 /* 上の部分は気にせずここから書く */
+img {
+  width: 800px;
+  height: 500px; 
+  display: block;
+  margin: 10px auto;
+}
